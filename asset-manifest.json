@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.625770da.css",
+    "main.js": "/port/static/js/main.491fea5f.js",
+    "static/media/ecommerce app.png": "/port/static/media/ecommerce app.c80a5f8b9cb14782f20e.png",
+    "static/media/pizza app.png": "/port/static/media/pizza app.a1546a0114f708c8a65d.png",
+    "static/media/Surendra.pdf": "/port/static/media/Surendra.43d0fb18f2b076643167.pdf",
+    "static/media/web dev.png": "/port/static/media/web dev.7bac10f699ccc2bf9446.png",
+    "static/media/about.png": "/port/static/media/about.0250db8cfc181becb0f6.png",
+    "static/media/home-bg.jpg": "/port/static/media/home-bg.b9d9cdad96d7b90cce7d.jpg",
+    "static/media/home-main.svg": "/port/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/pre.svg": "/port/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/port/index.html",
+    "main.625770da.css.map": "/port/static/css/main.625770da.css.map",
+    "main.491fea5f.js.map": "/port/static/js/main.491fea5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625770da.css",
+    "static/js/main.491fea5f.js"
+  ]
+}
